@@ -1,0 +1,24 @@
+{
+  "name": "spacelab-objects.list-bare",
+  "version": "0.1.0",
+  "authors": [
+    "Axel Salder",
+    "Daniel Blomeyer"
+  ],
+  "description": "here be a description",
+  "main": "_objects.list-bare.scss",
+  "keywords": [
+    "spacelab",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/spacelab/objects.list-bare",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
